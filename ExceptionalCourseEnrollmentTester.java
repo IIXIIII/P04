@@ -1,6 +1,6 @@
 //////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
 //
-// Title:    Course Enrollment Tester
+// Title:    Exceptional Course Enrollment Tester
 // Course:   CS 300 Fall 2023
 //
 // Author:   Will Chen / Jason Jisen Li
