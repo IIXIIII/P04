@@ -1,4 +1,30 @@
-// TODO File Header COMES HERE
+
+//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
+//
+// Title:    Exceptional Course Enrollment Drive
+// Course:   CS 300 Fall 2023
+//
+// Author:   Will Chen / Jason Jisen Li
+// Email:    lchen638@wisc.edu / jjli8@wisc.edu
+// Lecturer: Hobbes LeGault 
+//
+//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
+//
+// Partner Name:    Will Chen / Jason Jisen Li
+// Partner Email:   lchen638@wisc.edu / jjli8@wisc.edu
+// Partner Lecturer's Name: Hobbes LeGault
+// 
+// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
+//   __x_ Write-up states that pair programming is allowed for this assignment.
+//   __x_ We have both read and understand the course Pair Programming Policy.
+//   __x_ We have registered our team prior to the team registration deadline.
+//
+///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
+//
+// Persons:         NONE
+// Online Sources:  NONE
+//
+///////////////////////////////////////////////////////////////////////////////
 // Be sure to credit the outside help section in the file header
 
 import java.io.File;
