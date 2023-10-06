@@ -1,6 +1,6 @@
 //////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
 //
-// Title:    all of the methods needed for the course enrollment management app
+// Title:    Student Record
 // Course:   CS 300 Fall 2023
 //
 // Author:   Will Chen / Jason Jisen Li
